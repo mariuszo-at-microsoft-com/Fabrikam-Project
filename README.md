@@ -1,3 +1,5 @@
+<!-- Updated by mariuszo for COE demo -->
+
 # 🏗️ Fabrikam Modular Homes - Business AI Demonstration Platform
 
 > **🤖 GITHUB COPILOT: CRITICAL SERVER RULES** ⚠️  
